@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sandeepbihari2005/sandeepbihari2005/main/Grey%20Modern%20Designer%20Profile%20Banner%20Landscape.png" width="100%">
+
 # Hi 👋 I'm Sandeep Kumar Bihari
 
 💻 B.Tech Student  
