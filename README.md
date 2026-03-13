@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/sandeepbihari2005/sandeepbihari2005/main/Navy%20%26%20Blue%20Gradient%20Personal%20LinkedIn%20Banner%20(1).png" width="100%">
-# 💫 About Me:
 # Hi 👋 I'm Sandeep Kumar Bihari<br><br>💻 B.Tech Student  <br>🚀 Interested in Web Development & Cyber Security  <br>🏃 Athlete | CISCE State Silver Medalist  <br>
 
 
