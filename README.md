@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/sandeepbihari2005/sandeepbihari2005/main/Navy%20%26%20Blue%20Gradient%20Personal%20LinkedIn%20Banner%20(1).png" width="100%">
-# 💫 About Me:
 Hi 👋, I'm Sandeep Kumar Bihari<br><br>🎓 B.Tech Student<br>💻 Web Developer | Cyber Security Enthusiast<br>🏃 Athlete | CISCE State Silver Medalist (100m Sprint)<br><br>🚀 About Me<br><br>🔭 Currently working on Full Stack Web Development Projects<br><br>🌱 Learning Advanced MERN Stack & Cyber Security<br><br>💡 Interested in building real-world applications that solve problems<br><br>🧠 Passionate about coding, problem-solving, and exploring new technologies<br><br>⚡ Athlete who believes in discipline, consistency, and performance
 
 
