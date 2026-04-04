@@ -14,3 +14,8 @@ Hi 👋, I'm Sandeep Kumar Bihari<br><br>🎓 B.Tech Student<br>💻 Web Develop
 ---
 [![](https://visitcount.itsvg.in/api?id=sandeepbihari2005&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeepbihari2005&show_icons=true&theme=radical" />
+</p>
