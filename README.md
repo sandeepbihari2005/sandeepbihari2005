@@ -23,3 +23,8 @@ Hi 👋, I'm Sandeep Kumar Bihari<br><br>🎓 B.Tech Student<br>💻 Web Develop
 [![](https://visitcount.itsvg.in/api?id=sandeepbihari2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sandeepbihari2005&theme=tokyonight&hide_border=true" />
+</p>
